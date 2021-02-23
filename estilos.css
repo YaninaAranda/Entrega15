@@ -106,10 +106,12 @@ ul{
 .flechaArriba{
     position: fixed;
     z-index: 1;
-    right: 0vw;
-    width: 10%;
-    padding: 2vw 3vw;
-    bottom: 0vw;
+    right: 2vw;
+    bottom: 2vw;
+    width: 5%;
+}
+.flechaArriba:hover{
+    transform: scale(1.2 , 1.2);
 }
 
 
